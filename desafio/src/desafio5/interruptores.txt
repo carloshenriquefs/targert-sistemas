@@ -1,0 +1,11 @@
+Com apenas uma ida, consigo descobrir qual interruptor controla cada lâmpada:
+
+Instruções:
+
+1) Ligue o primeiro interruptor (Interruptor A) por alguns minutos. Assim, aquecendo a lampâda correspondente.
+2) Após o tempo estimado, desligue o primeiro interruptor (Interruptor A) e ligue o próximo (Interruptor B)
+3) Após isso, vá até a sala das lampâdas:
+    3.1) A lampâda que estiver acessa terá sido acionada pelo interruptor B.
+    3.2) As outras duas lampâdas estarão apagadas, com isso toque nas duas para saber qual está mais quente, ao saber
+    qual lampâda estará mais aquecida, é controlada pelo interruptor A.
+    3.3) Dessa forma, a última lampâda que estiver apagada e fria é controlada pelo interruptor C.
